@@ -15,3 +15,9 @@ casas inicialmente vazias.
 
 * A função jogar(jogador, linha, coluna) irá posicionar o **jogador** ('X' ou
 'O') na posição definida por **linha** e **coluna**.
+
+## Verificação da validade das jogadas
+
+* A implementação deverá ser realizada no arquivo **jogovelhe.py**.
+
+* Ela deverá ter uma nova função verificando se a casa escolida pelo jogador está vazia e retornar um valor de verdadeiro e falso.
