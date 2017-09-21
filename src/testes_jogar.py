@@ -22,15 +22,7 @@ else:
                         erro = True
                  elif jogo[linha][coluna] != '.':
                      erro = True
-				
-r = jogovelha.jogar(jogador, lin, col)
-               
-if r == False:
-   erro = False
-else:
-   erro = True
-
-
+		
 if erro:
      print('Erro!')
      sys.exit(1)
