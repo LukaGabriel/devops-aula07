@@ -7,3 +7,10 @@ um jogo da velha.
 
 * Cada casa do jogo da velha poderá estar vazia, ocupada
 pelo 1o jogador ou ocupada pelo 2o jogador. 
+
+##  Verificação da Validade de jogadas
+
+* Para Validar as jogadas, as peças só poderam ser movidas para 
+casas vazias.
+
+
